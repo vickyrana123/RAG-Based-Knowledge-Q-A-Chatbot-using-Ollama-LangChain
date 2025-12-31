@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain-chroma
+langchain-huggingface
+langchain-ollama
+chromadb
+sentence-transformers
+pypdf
+pytest
