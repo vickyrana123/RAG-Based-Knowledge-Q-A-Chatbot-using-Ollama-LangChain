@@ -33,3 +33,7 @@ Testing: pytest
 4.) Vector storage
 5.) Query-time retrieval
 6.) Context-aware response generation using LLM
+
+
+<img width="960" height="540" alt="rag-chatbot-architecture-1" src="https://github.com/user-attachments/assets/94439979-2ebe-4462-bec1-8ab4cdd8ff19" />
+
